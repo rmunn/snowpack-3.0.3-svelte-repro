@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "start": "svelte-kit start"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-typescript": "^1.2.0",
+    "@sveltejs/kit": "^1.0.0-next.21",
+    "@sveltejs/snowpack-config": "^1.0.0-next.0",
+    "snowpack": "^3.0.3",
+    "svelte-preprocess": "^4.6.1"
+  }
+}
